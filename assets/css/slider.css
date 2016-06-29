@@ -1,0 +1,49 @@
+#carrusel{width:99%; overflow:hidden; height:205px; position:relative; margin-top:-10px; padding-top: 20px;  background-color: #cccccc;}
+#carrusel .izquierda_flecha{position:absolute; left:10px; z-index:1; top:40%; margin-top:-9px; opacity: 0.5;}
+#carrusel .derecha_flecha{position:absolute; right:10px; z-index:1; top:40%; margin-top:-9px; opacity: 0.5;}
+.carrusel{width:4000px;left:0px; position:absolute; z-index:0;}
+.carrusel>div{
+    float: left;
+    height: 203px;
+    margin-right: 5px;
+    width: 190px;
+    text-align:center;
+}
+.carrusel .img_carrusel{cursor:pointer;}
+
+#content {
+    float:left;
+    width:600px;
+    margin-bottom:40px;
+    margin:0px auto;
+}
+.product {
+    border:#CCCCCC 1px solid;
+    margin: 5px;
+}
+.product b{
+    color: #ffffff;
+}
+.product p{
+    margin: 0px;
+    color: #ffff00;
+    font-weight: 800;
+}
+.cont{
+    height: 70px;
+    background-color: #144229;
+    border-radius: 10px;
+}
+
+.arrowL{
+    left: 0px;
+    width: 33px;
+    height: 50px;
+    background: url('http://localhost:8448/UMA/assets/img/arrow-green.png') 0 -49px;
+}
+.arrowR{
+    right: 0px;
+    width: 33px;
+    height: 50px;
+    background: url('http://localhost:8448/UMA/assets/img/arrow-green.png') -35px -50px;
+}

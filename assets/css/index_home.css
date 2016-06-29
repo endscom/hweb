@@ -1,0 +1,228 @@
+.row{
+	width: 100%;
+
+}
+.archivo{
+ 	margin: 0 auto;
+   width: 33%;
+   border-radius: 2px;
+   background-color: #CDDFE9 !important;
+   text-align: center;
+
+}
+.container{
+	padding-left: 25%;
+	color: black;
+}
+.formulario
+{
+width: 65%;
+margin-left: 60%;
+}
+.row .label{
+	margin-top: 0px;
+}
+.label .cabezera{
+
+	color: #313b72 !important;
+	font-size: 30px !important;
+ 	font-weight: bold;
+ }
+.row.botonesbio{
+	text-align: center !important;
+	padding-left: 14%;
+	
+}
+.cabezera{
+	margin-right: 0px;
+	width: 100%;
+}
+.btn{
+	background-color: #003348;
+}
+.btn:hover{
+	background-color: #00658F;
+}
+
+ .texto{
+text-align: right;
+
+}
+ .texto .cabezera{
+
+ 	color: #313b72 !important;
+	font-size: 30px !important;
+ 	font-weight: bold;
+	
+ }
+
+ .row .col.l10.texto{
+ 	padding-right: 120px !important;
+ }
+
+.txtselect .letra{
+font-size: 16px;
+color: #313b72;
+font-weight: bold;
+ }
+
+.row.textos{
+	padding-left: 15%;
+}
+.text .letra{
+font-size: 23px;
+color: #313b72;
+font-weight: bold;
+ }
+.row.btnagregar{
+text-align: center;
+}
+.row.btneliminar
+{
+padding-left: 83%;
+}
+.row.selectores{
+	padding-left: 15%;
+}
+.row .col.l12.text{
+	font-size: 16px;
+color: #313b72;
+font-weight: bold;
+}
+.card.general{
+	background-color: #cddfe9;
+}
+ .cabezera .regresar{
+ 	width: 40%;
+ 	text-align:right;
+ }
+
+div.formulario{
+	padding-top: 3%;
+padding-left: 5%;
+border-radius:10px;
+background-color: #E6E6E6;
+} 
+div.formularioUser{
+	padding-top: 3%;
+padding-left: 5%;
+border-radius:10px;
+background-color: #CDDFE9;
+} 
+
+.formularioUser
+{
+	width: 65%;
+margin-left: 60%;
+}
+img{
+	max-width: 60%;
+	
+}
+.input-field{
+	font-size: 12px;
+}
+
+#Tabla{
+	font-size: 12px;
+}
+td,th{
+
+	border: 0.5px solid #0e777d;
+	text-align: center;
+
+}
+th
+{
+	color: white;
+	background-color: #00658f ;
+}
+.espacio
+{
+	height: 20px;
+	background-color: red;
+}
+
+.Tabla .cellEditing input[type=text]{
+    width:100%;
+    border:0;
+    background-color:rgb(255,253,210);  
+}
+
+td label{
+	font-size: 15px;
+}
+
+.dataTables_length label{
+
+	font-size: 16px;
+}
+.caja
+{
+padding:2%;	
+background-color: #CDDFE9 !important;
+}
+
+.logo img{
+	padding-top: 5px;
+}
+.barra{background-color:#00658f;
+ }
+ .boton{
+ 	background-color: #00658f !important ;
+	
+ }
+.collection a.collection-item{
+ 	color:white;
+ 	font-size: 12px;
+ 	font-weight: bold;
+ }
+ a:hover
+ {
+ 	background-color: #2991bc !important ;
+ }
+ .tableDatos tbody tr:hover{
+    background-color:#eef7f8;
+}
+.tableDatos tbody tr.odd{
+    background-color:#eaf9fa;
+}
+.tableDatos tbody tr.even{
+    background-color: #b2e1e5;
+}
+.collection{
+	text-align: center;
+}
+
+label.filtrado{
+font-size: 16px;
+color: #313b72;
+font-weight: bold;
+}
+
+/*ESTILOS PARA FORMULARIO DE USUARIOS*/
+
+label.encabezado{
+	color: #313b72 !important;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+.cajauser{
+	background-color: #CDDFE9;
+}
+
+.row.succes{
+	text-align: center;
+  position:absolute;
+   margin: 0 auto;
+   right: 0;
+    left: 0;
+   width:550px;
+}
+.imagen-succes
+{
+	background-color: red;
+	  align-items: center;
+	  padding-left: 10%;
+}
+
